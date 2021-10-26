@@ -18,7 +18,7 @@ namespace DoubleDispatch
             IServiceProvider serviceProvider = ConfigureServices();
 
             //Usecase 1
-            //AddItemAboveLimitReturnFalse(serviceProvider);
+            AddItemAboveLimitReturnFalse(serviceProvider);
 
             //Usecase 2
             UpdateItemAboveLimitReturnsFalse(serviceProvider);
