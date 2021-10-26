@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.6.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoupleDispatch", "DoupleDispatch\DoupleDispatch.csproj", "{1FCC6AAC-E8BA-48A8-94AD-2A1F8DC5B571}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleDispatch", "DoubleDispatch\DoubleDispatch.csproj", "{1FCC6AAC-E8BA-48A8-94AD-2A1F8DC5B571}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
